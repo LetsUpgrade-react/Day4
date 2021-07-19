@@ -1,0 +1,49 @@
+body {
+    background-image: url(./images/back1.png);
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+@media (min-width: 568px) {
+    .tic-border {
+        width: 360px;
+        height: 360px;
+    }
+    .tic-border-nested {
+        width: 120px;
+        height: 120px;
+    }
+}
+
+@media only screen and (max-width: 568px) {
+    .tic-border {
+        width: 276px;
+        height: 276px;
+    }
+    .tic-border-nested {
+        width: 92px;
+        height: 92px;
+    }
+}
+
+.btn-grad {background-image: linear-gradient(to right, #000428 0%, #004e92  51%, #000428  100%)}
+.btn-grad {
+   margin: 10px;
+   padding: 15px 45px;
+   text-align: center;
+   font-family: Impact;
+   text-transform: uppercase;
+   transition: 0.5s;
+   background-size: 200% auto;
+   color: white;            
+   box-shadow: 0 0 20px #eee;
+   border-radius: 10px;
+   display: block;
+ }
+
+ .btn-grad:hover {
+   background-position: right center; /* change the direction of the change here */
+   color: #fff;
+   text-decoration: none;
+ }
