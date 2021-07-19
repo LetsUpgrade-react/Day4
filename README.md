@@ -1,10 +1,12 @@
 # Day4 OutPut
 
-![image](/src/images/output.png)
+![image](https://user-images.githubusercontent.com/45985801/126123394-9e0b4087-49ca-4072-92fe-8b7d6dc5863e.png)
+
 
 ### Tic Tac Toe Start With X or O
 
-![image](/src/images/output1.png)
+![image](https://user-images.githubusercontent.com/45985801/126123474-7be8947f-3fc7-430f-b719-19c304c6af1e.png)
+
 
 ### Result
 
